@@ -95,6 +95,10 @@ p {
   }
   #image {
     display: none;
+
+  .primary-link {
+    padding-bottom: 20px;
+  }  
   }
 
 }
